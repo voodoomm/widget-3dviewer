@@ -2268,7 +2268,7 @@ cpdefine('inline:com-chilipeppr-widget-3dviewer', ['chilipeppr_ready', 'Three', 
             this.sceneAdd(this.axes);
 
         },
-        colorBackground: 0xeeeeee, // this is the background color of the 3d viewer
+        colorBackground: 0x000000, // this is the background color of the 3d viewer
         createScene: function (element) {
 
             console.log("inside createScene: element:", element);
