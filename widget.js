@@ -146,8 +146,8 @@ cpdefine('inline:com-chilipeppr-widget-3dviewer', ['chilipeppr_ready', 'Three', 
     return {
 
         id: 'com-chilipeppr-widget-3dviewer',
-        name: "Widget / 3D GCode Viewer",
-        desc: "Visualize your GCode in 3D by simulating your GCode run or seeing where your run is at in 3D while your CNC operation is in action.",
+        name: "Widget / 3D GCode Viewer / Darkness",
+        desc: 'Visualize your GCode in 3D by simulating your GCode run or seeing where your run is at in 3D while your CNC operation is in action.  Try it at <a href="http://chilipeppr.com/darkness">chilipeppr.com/darkness</a>',
         url: "(auto fill by runme.js)",       // The final URL of the working widget as a single HTML file with CSS and Javascript inlined. You can let runme.js auto fill this if you are using Cloud9.
         fiddleurl: "(auto fill by runme.js)", // The edit URL. This can be auto-filled by runme.js in Cloud9 if you'd like, or just define it on your own to help people know where they can edit/fork your widget
         githuburl: "(auto fill by runme.js)", // The backing github repo
